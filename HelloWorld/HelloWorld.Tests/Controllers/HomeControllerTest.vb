@@ -40,4 +40,8 @@ Imports HelloWorld
         ' Assert
         Assert.IsNotNull(result)
     End Sub
+
+    <TestMethod()> Public Sub ICanAdd()
+        Assert.AreEqual(3, 1 + 1)
+    End Sub
 End Class
