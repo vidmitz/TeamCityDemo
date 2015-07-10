@@ -11,6 +11,7 @@ namespace SuperSimpleApplication
         static void Main(string[] args)
         {
             int i = 1;
+            int j = 2;
         }
     }
 }
