@@ -1,0 +1,6 @@
+C:\Users\dmitzel.CORP\Documents\GitHub\TeamCityDemo\SuperSimpleApplication\SuperSimpleService\bin\Debug\SuperSimpleService.exe.config
+C:\Users\dmitzel.CORP\Documents\GitHub\TeamCityDemo\SuperSimpleApplication\SuperSimpleService\bin\Debug\SuperSimpleService.exe
+C:\Users\dmitzel.CORP\Documents\GitHub\TeamCityDemo\SuperSimpleApplication\SuperSimpleService\bin\Debug\SuperSimpleService.pdb
+C:\Users\dmitzel.CORP\Documents\GitHub\TeamCityDemo\SuperSimpleApplication\SuperSimpleService\obj\Debug\SuperSimpleService.csprojResolveAssemblyReference.cache
+C:\Users\dmitzel.CORP\Documents\GitHub\TeamCityDemo\SuperSimpleApplication\SuperSimpleService\obj\Debug\SuperSimpleService.exe
+C:\Users\dmitzel.CORP\Documents\GitHub\TeamCityDemo\SuperSimpleApplication\SuperSimpleService\obj\Debug\SuperSimpleService.pdb
